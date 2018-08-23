@@ -8,5 +8,3 @@ information and additional materials.)
 This repository mainly contains information for 
 
 o [Lecture notes](lecture.md)
-
-o [Assignments](assignment.md)

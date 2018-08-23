@@ -18,4 +18,3 @@ On Julia
 
 
 ## Lecture 2 (8/24)
-
