@@ -1,5 +1,12 @@
 # Fall 2018 275 Lecture notes 
 
+**[Book]** L. Lin and J. Lu, Mathematical introduction to electronic
+structure theory (preliminary draft, available on bCourses)
+
+**[Sak]** J. J. Sakurai, Modern quantum Mechanics, Addison-Wesley, 1994
+
+
+
 ## Lecture 1 (8/22)
 
 Introduction. Stern-Gerlach experiment.
@@ -36,9 +43,14 @@ out-of-date).
 
 State space. Operator. Measurement. Spin-1/2 operator.
 
-
+**Reading**: [Book] 1.1, [Sak] 1.1-1.2
 
 ## Lecture 3 (8/27)
+
+Uncertainty principle; Schr\"odinger equation; Tensor product of Hilbert
+spaces.
+
+**Reading**: [Book] 1.5, [Sak] 1.3-1.5
 
 
 ## Lecture 4 (8/29)
