@@ -55,6 +55,10 @@ spaces.
 
 ## Lecture 4 (8/29)
 
+Spin singlet / tripets; Quantum mechnaics in the real space 
+
+**Reading**: [Book] 1.2
+
 
 ## Lecture 5 (8/31)
 
