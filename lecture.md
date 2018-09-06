@@ -82,7 +82,7 @@ Hubbard dimer
 
 and one dimensional model problems for electronic structure theory.
 
-[MB04](others/MB04.pdf), [SWL12](others/SWL12.pdf), [BSE15](others/BSE15.pdf)
+[MB04](others/MB04.pdf), [SWW12](others/SWW12.pdf), [BSW15](others/BSW15.pdf)
 
 
 **Reading**: [Book] 1.6
