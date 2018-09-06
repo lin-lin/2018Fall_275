@@ -78,7 +78,7 @@ Some of Kieron Burke et al's work on
 
 Hubbard dimer 
 
-[CFS15](CFS15.pdf)
+[CFS15](others/CFS15.pdf)
 
 and one dimensional model problems for electronic structure theory.
 
