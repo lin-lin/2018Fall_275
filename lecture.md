@@ -74,7 +74,22 @@ H2+ molecule; Identical particles
 
 [Notebook: One dimensional H2+ molecule](http://nbviewer.jupyter.org/github/lin-lin/2018Fall_275/blob/master/notebooks/OneDimension_H2plus.ipynb)
 
-**Reading**: [Book] 1.5
+Some of Kieron Burke et al's work on 
+
+Hubbard dimer 
+
+[CFS15](CFS15.pdf)
+
+and one dimensional model problems for electronic structure theory.
+
+[MB04](MB04.pdf)
+
+[SWL12](SWL12.pdf)
+
+[BSE15](BSE15.pdf)
+
+
+**Reading**: [Book] 1.6
 
 ## Lecture 7 (9/7)
 
