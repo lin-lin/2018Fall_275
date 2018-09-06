@@ -70,8 +70,11 @@ Momentum; Canonical relation; Angular momentum; Hydrogen atom
 
 ## Lecture 6 (9/5)
 
+H2+ molecule; Identical particles
 
-**Reading**: 
+[Notebook: One dimensional H2+ molecule](http://nbviewer.jupyter.org/github/lin-lin/2018Fall_275/blob/master/notebooks/OneDimension_H2plus.ipynb)
+
+**Reading**: [Book] 1.5
 
 ## Lecture 7 (9/7)
 
