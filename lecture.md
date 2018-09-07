@@ -87,13 +87,20 @@ and one dimensional model problems for electronic structure theory.
 
 **Reading**: [Book] 1.6
 
+
 ## Lecture 7 (9/7)
 
-**Reading**: 
+Helium atom. Configuration interaction. Hartree-Fock.
+
+[Notebook: One dimensional Helium atom](http://nbviewer.jupyter.org/github/lin-lin/2018Fall_275/blob/master/notebooks/OneDimension_Helium.ipynb)
+
+**Reading**: [Book] 2.1
 
 ## Lecture 8 (9/10)
 
-**Reading**: 
+Hartree-Fock.
+
+**Reading**: [Book] 2.1, 2.3
 
 
 ## Lecture 9 (9/12)
