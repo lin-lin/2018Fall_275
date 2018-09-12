@@ -74,6 +74,8 @@ H2+ molecule; Identical particles
 
 [Notebook: One dimensional H2+ molecule](http://nbviewer.jupyter.org/github/lin-lin/2018Fall_275/blob/master/notebooks/OneDimension_H2plus.ipynb)
 
+**Reading**: [Book] 1.6
+
 Some of Kieron Burke et al's work on 
 
 Hubbard dimer 
@@ -84,8 +86,6 @@ and one dimensional model problems for electronic structure theory.
 
 [MB04](others/MB04.pdf), [SWW12](others/SWW12.pdf), [BSW15](others/BSW15.pdf)
 
-
-**Reading**: [Book] 1.6
 
 
 ## Lecture 7 (9/7)
@@ -100,14 +100,27 @@ Helium atom. Configuration interaction. Hartree-Fock.
 
 Hartree-Fock.
 
-**Reading**: [Book] 2.1, 2.3
+**Reading**: [Book] 2.1
 
 
 ## Lecture 9 (9/12)
 
-**Reading**: 
+Hartree-Fock equation.
+
+
+**Reading**: [Book] 2.3
+
+Numerical optimization on the Grassmann manifold
+
+[EAS98](others/EAS98.pdf)
+
+Iterative solution of DFT via direct minimization
+
+[PTA892](others/PTA92.pdf)
 
 
 ## Lecture 10 (9/14)
 
-**Reading**: 
+Kohn-Sham Density functional theory
+
+**Reading**: [Book] 2.2
