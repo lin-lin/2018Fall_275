@@ -124,3 +124,47 @@ Iterative solution of DFT via direct minimization
 Kohn-Sham Density functional theory
 
 **Reading**: [Book] 2.2
+
+
+## Lecture 11 (9/17)
+
+Kohn-Sham Density functional theory
+
+**Reading**: [Book] 2.2
+
+
+## Lecture 12 (9/19)
+
+**Reading**: 
+
+
+## Lecture 13 (9/21)
+
+**Reading**: 
+
+
+## Lecture 14 (9/24)
+
+**Reading**: 
+
+
+## Lecture 15 (9/26)
+
+**Reading**: 
+
+
+## Lecture 16 (9/28)
+
+**Reading**: 
+
+## Lecture 17 (10/1)
+
+**Reading**: 
+
+## Lecture 18 (10/3)
+
+**Reading**: 
+
+## Lecture 19 (10/5)
+
+**Reading**: 
