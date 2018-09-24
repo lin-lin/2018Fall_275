@@ -121,41 +121,51 @@ Iterative solution of DFT via direct minimization
 
 ## Lecture 10 (9/14)
 
-Kohn-Sham Density functional theory
+Kohn-Sham Density functional theory. Constrained minimization.
 
 **Reading**: [Book] 2.2
 
 
 ## Lecture 11 (9/17)
 
-Kohn-Sham Density functional theory
+Kohn-Sham Density functional theory. Exchange-correlation functional.
 
 **Reading**: [Book] 2.2
 
 
 ## Lecture 12 (9/19)
 
-**Reading**: 
+Kohn-Sham Density functional theory. Euler-Lagrange equation
+
+**Reading**: [Book] 2.3
 
 
 ## Lecture 13 (9/21)
 
-**Reading**: 
+Self consistent field iteration.
+
+**Reading**: [Book] 2.4
 
 
 ## Lecture 14 (9/24)
 
-**Reading**: 
+Density matrix method. Zero temperature.
+
+**Reading**: [Book] 2.5
 
 
 ## Lecture 15 (9/26)
 
-**Reading**: 
+Density matrix method. Zero temperature.
+
+**Reading**: [Book] 2.7
 
 
 ## Lecture 16 (9/28)
 
-**Reading**: 
+Density matrix method. Finite temperature.
+
+**Reading**: [Book] 2.6, 2.7
 
 ## Lecture 17 (10/1)
 
