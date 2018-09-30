@@ -149,32 +149,57 @@ Self consistent field iteration.
 
 ## Lecture 14 (9/24)
 
-Density matrix method. Zero temperature.
+Density matrix method. Variational formulation
 
 **Reading**: [Book] 2.5
 
 
 ## Lecture 15 (9/26)
 
+Localization algorithms.
+
+**Reading**: [Book] 2.9
+
+## Lecture 16 (9/28)
+
+Localization algorithms. Periodic systems
+
+**Reading**: [Book] 1.4, 2.8
+
+[Notebook: One dimensional localization (via selected columns of density matrix)](http://nbviewer.jupyter.org/github/lin-lin/2018Fall_275/blob/master/notebooks/OneDimension_Localization.ipynb)
+
+
+## Lecture 17 (10/1)
+
 Density matrix method. Zero temperature.
 
 **Reading**: [Book] 2.7
 
 
-## Lecture 16 (9/28)
+## Lecture 18 (10/3)
 
 Density matrix method. Finite temperature.
 
 **Reading**: [Book] 2.6, 2.7
 
-## Lecture 17 (10/1)
-
-**Reading**: 
-
-## Lecture 18 (10/3)
-
-**Reading**: 
 
 ## Lecture 19 (10/5)
+
+Density matrix method. Finite temperature.
+
+**Reading**: [Book] 2.6, 2.7
+
+
+## Lecture 20 (10/8)
+
+**Reading**: 
+
+
+## Lecture 21 (10/10)
+
+**Reading**: 
+
+
+## Lecture 22 (10/12)
 
 **Reading**: 
