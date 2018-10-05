@@ -86,8 +86,6 @@ and one dimensional model problems for electronic structure theory.
 
 [MB04](others/MB04.pdf), [SWW12](others/SWW12.pdf), [BSW15](others/BSW15.pdf)
 
-
-
 ## Lecture 7 (9/7)
 
 Helium atom. Configuration interaction. Hartree-Fock.
@@ -102,7 +100,6 @@ Hartree-Fock.
 
 **Reading**: [Book] 2.1
 
-
 ## Lecture 9 (9/12)
 
 Hartree-Fock equation.
@@ -116,7 +113,7 @@ Numerical optimization on the Grassmann manifold
 
 Iterative solution of DFT via direct minimization
 
-[PTA892](others/PTA92.pdf)
+[PTA92](others/PTA92.pdf)
 
 
 ## Lecture 10 (9/14)
@@ -178,8 +175,8 @@ Density matrix method. Zero temperature.
 
 ## Lecture 18 (10/3)
 
-Density matrix method. Finite temperature.
-
+Density matrix method. Zero temperature.
+ 
 **Reading**: [Book] 2.6, 2.7
 
 
@@ -189,17 +186,45 @@ Density matrix method. Finite temperature.
 
 **Reading**: [Book] 2.6, 2.7
 
+L.N. Trefethen, Is Gauss quadrature better than Clenshaw-Curtis?, SIAM Rev. 50 (2008) 67–87. 
 
 ## Lecture 20 (10/8)
 
-**Reading**: 
+Density matrix method. Finite temperature.
+
+**Reading**: [Book] 2.6, 2.7
 
 
 ## Lecture 21 (10/10)
 
-**Reading**: 
+Density matrix method. Finite temperature.
+
+**Reading**: [Book] 2.6, 2.7
 
 
 ## Lecture 22 (10/12)
 
-**Reading**: 
+Perturbation of Green's functions
+
+**Reading**: [Book] 3.1, 3.2
+
+
+## Lecture 23 (10/15)
+
+Density functional perturbation theory
+
+**Reading**: [Book] 3.3, 3.4
+
+
+## Lecture 24 (10/17)
+
+Density functional perturbation theory
+
+**Reading**: [Book] 3.3, 3.4
+
+
+## Lecture 25 (10/19)
+
+Density functional perturbation theory
+
+**Reading**: [Book] 3.3, 3.4
