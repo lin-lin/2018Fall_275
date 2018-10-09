@@ -107,13 +107,10 @@ Hartree-Fock equation.
 
 **Reading**: [Book] 2.3
 
-Numerical optimization on the Grassmann manifold
+Numerical optimization on the Grassmann manifold:
 
-[EAS98](others/EAS98.pdf)
+A. Edelman, T. Arias, S.T. Smith, The geometry of algorithms with orthogonality constraints, SIAM J. Matrix Anal. 20 (1998)
 
-Iterative solution of DFT via direct minimization
-
-[PTA92](others/PTA92.pdf)
 
 
 ## Lecture 10 (9/14)
@@ -157,6 +154,14 @@ Localization algorithms.
 
 **Reading**: [Book] 2.9
 
+N. Marzari, D. Vanderbilt, Maximally localized generalized Wannier functions for composite energy bands, Phys. Rev. B. 56 (1997) 12847–12865.
+
+A. Damle, L. Lin and L. Ying, Compressed representation of Kohn-Sham orbitals via selected columns of the density matrix, J. Chem. Theory Comput. 11, 1463, 2015 
+
+A. Damle and L. Lin, Disentanglement via entanglement: A unified method for Wannier localization, SIAM Multiscale Model. Simul., 16, 1392, 2018
+
+
+
 ## Lecture 16 (9/28)
 
 Localization algorithms. Periodic systems
@@ -192,14 +197,19 @@ L.N. Trefethen, Is Gauss quadrature better than Clenshaw-Curtis?, SIAM Rev. 50 (
 
 Density matrix method. Finite temperature.
 
-**Reading**: [Book] 2.6, 2.7
+**Reading**: [Book] 2.6, 2.7, 2.8
 
+L. Lin, J. Lu, L. Ying and W. E, Pole-based approximation of the Fermi-Dirac function, Chin. Ann. Math. 30B 729, 2009
+
+L. Lin, C. Yang, J. Meza, J. Lu, L. Ying and W. E, SelInv -- An algorithm for selected inversion of a sparse symmetric matrix, ACM Trans. Math. Software 37, 40, 2011 
+
+More information on PEXSI: http://www.pexsi.org
 
 ## Lecture 21 (10/10)
 
-Density matrix method. Finite temperature.
+Perturbation of Green's functions
 
-**Reading**: [Book] 2.6, 2.7
+**Reading**: [Book] 3.1, 3.2
 
 
 ## Lecture 22 (10/12)
