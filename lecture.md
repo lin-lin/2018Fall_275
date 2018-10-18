@@ -238,3 +238,74 @@ Density functional perturbation theory
 Density functional perturbation theory
 
 **Reading**: [Book] 3.3, 3.4
+
+## Lecture 26 (10/22)
+
+**Reading**: 
+
+
+## Lecture 27 (10/24)
+
+**Reading**: 
+
+
+## Lecture 28 (10/26)
+
+**Reading**: 
+
+
+## Lecture 29 (10/29)
+
+**Reading**: 
+
+
+## Lecture 30 (10/31)
+
+
+**Reading**: 
+
+
+## Lecture 31 (11/2)
+
+**Reading**: 
+
+
+## Lecture 32 (11/5)
+
+**Reading**: 
+
+
+## Lecture 33 (11/7)
+
+
+**Reading**: 
+
+
+## Lecture 34 (11/9)
+
+**Reading**: 
+
+
+## Lecture 35 (11/14)
+
+**Reading**: 
+
+
+## Lecture 36 (11/16)
+
+**Reading**: 
+
+
+## Lecture 37 (11/19)
+
+**Reading**: 
+
+
+## Lecture 38 (11/26)
+
+**Reading**: 
+
+
+## Lecture 39 (11/28)
+
+**Reading**: 
