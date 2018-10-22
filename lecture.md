@@ -239,10 +239,36 @@ Density functional perturbation theory
 
 **Reading**: [Book] 3.3, 3.4
 
+## Boom! Boom! Lecture notes online (files of large sizes)!
+
+**These are notes I used to prepare the lectures and are prone to
+errors. Please read critically!**
+
+[Lecture Note 1 (pdf)](lectures/275_Lec1.pdf)
+
+[Lecture Note 2 (pdf)](lectures/275_Lec2.pdf)
+
+[Lecture Note 3 (pdf)](lectures/275_Lec3.pdf)
+
+[Lecture Note 4 (pdf)](lectures/275_Lec4.pdf)
+
+[Lecture Note 5 (pdf)](lectures/275_Lec5.pdf)
+
+[Lecture Note 6 (pdf)](lectures/275_Lec6.pdf)
+
+[Lecture Note 7 (pdf)](lectures/275_Lec7.pdf)
+
+[Lecture Note 8 (pdf)](lectures/275_Lec8.pdf)
+
 ## Lecture 26 (10/22)
+
+Second quantization
 
 **Reading**: 
 
+S. Szalay, M. Pfeffer, V. Murg, G. Barcza, F. Verstraete, R. Schneider,
+O. Legeza, Tensor product methods and entanglement optimization for ab
+initio quantum chemistry, Int. J. Quantum Chem. 115 (2015) 1342–1391. 
 
 ## Lecture 27 (10/24)
 
