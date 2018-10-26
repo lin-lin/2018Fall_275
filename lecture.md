@@ -260,7 +260,18 @@ errors. Please read critically!**
 
 [Lecture Note 8 (pdf)](lectures/275_Lec8.pdf)
 
+[Lecture Note 9 (pdf)](lectures/275_Lec9.pdf)
+
+
 ## Lecture 26 (10/22)
+
+Second quantization
+
+**Reading**: 
+
+[Trond Saue's lecture note on second quantization. Part I (pdf)](others/Saue_secQ_partI.pdf)
+
+## Lecture 27 (10/24)
 
 Second quantization
 
@@ -270,28 +281,26 @@ S. Szalay, M. Pfeffer, V. Murg, G. Barcza, F. Verstraete, R. Schneider,
 O. Legeza, Tensor product methods and entanglement optimization for ab
 initio quantum chemistry, Int. J. Quantum Chem. 115 (2015) 1342–1391. 
 
-## Lecture 27 (10/24)
-
-**Reading**: 
-
-
 ## Lecture 28 (10/26)
 
+Perturbation theory in second quantization
+
 **Reading**: 
 
+[Trond Saue's lecture note on second quantization. Part II (pdf)](others/Saue_secQ_partII.pdf)
 
 ## Lecture 29 (10/29)
 
-**Reading**: 
+Perturbation theory in second quantization
 
 
 ## Lecture 30 (10/31)
 
-
-**Reading**: 
+Perturbation theory in second quantization
 
 
 ## Lecture 31 (11/2)
+
 
 **Reading**: 
 
