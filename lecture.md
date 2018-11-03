@@ -262,6 +262,7 @@ errors. Please read critically!**
 
 [Lecture Note 9 (pdf)](lectures/275_Lec9.pdf)
 
+[Lecture Note 10 (pdf)](lectures/275_Lec10.pdf)
 
 ## Lecture 26 (10/22)
 
@@ -289,6 +290,8 @@ Perturbation theory in second quantization
 
 [Trond Saue's lecture note on second quantization. Part II (pdf)](others/Saue_secQ_partII.pdf)
 
+This uses the Wick theorem and particle hole formalism.
+
 ## Lecture 29 (10/29)
 
 Perturbation theory in second quantization
@@ -298,20 +301,31 @@ Perturbation theory in second quantization
 
 Perturbation theory in second quantization
 
+**Reading**: 
+
+[Jurgen Gauss's lecture note on coupled cluster (pdf)](others/Gauss_coupledcluster_slides.pdf)
+
 
 ## Lecture 31 (11/2)
 
+Matrix product states
 
 **Reading**: 
 
+[Eric Jeckelmann, Density-Matrix Renormalization Group Algorithms, 2008](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.218.530&rep=rep1&type=pdf)
+
 
 ## Lecture 32 (11/5)
+
+Matrix product states
+
 
 **Reading**: 
 
 
 ## Lecture 33 (11/7)
 
+Matrix product states
 
 **Reading**: 
 
