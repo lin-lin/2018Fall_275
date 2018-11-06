@@ -332,29 +332,45 @@ Matrix product states
 
 ## Lecture 34 (11/9)
 
+Time-dependent perturbation theory
+
 **Reading**: 
+
+[Book] 3.6
 
 
 ## Lecture 35 (11/14)
 
+Time-dependent perturbation theory
+
 **Reading**: 
 
+[Book] 3.8
 
 ## Lecture 36 (11/16)
 
+Time-dependent perturbation theory
+
 **Reading**: 
 
+[Book] 3.9
 
 ## Lecture 37 (11/19)
+
+Green's function formalism
 
 **Reading**: 
 
 
 ## Lecture 38 (11/26)
 
+Green's function formalism
+
 **Reading**: 
 
 
 ## Lecture 39 (11/28)
+
+Green's function formalism
 
 **Reading**: 
