@@ -264,6 +264,10 @@ errors. Please read critically!**
 
 [Lecture Note 10 (pdf)](lectures/275_Lec10.pdf)
 
+[Lecture Note 11 (pdf)](lectures/275_Lec11.pdf)
+
+
+
 ## Lecture 26 (10/22)
 
 Second quantization
@@ -328,6 +332,8 @@ Matrix product states
 Matrix product states
 
 **Reading**: 
+
+[Notebook: DMRG for Heisenberg model](http://nbviewer.jupyter.org/github/lin-lin/2018Fall_275/blob/master/notebooks/Simple_DMRG_Spin.ipynb)
 
 
 ## Lecture 34 (11/9)
