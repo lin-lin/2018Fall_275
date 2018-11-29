@@ -266,6 +266,7 @@ errors. Please read critically!**
 
 [Lecture Note 11 (pdf)](lectures/275_Lec11.pdf)
 
+[Lecture Note 12 (pdf)](lectures/275_Lec12.pdf)
 
 
 ## Lecture 26 (10/22)
@@ -353,7 +354,7 @@ Time-dependent perturbation theory
 
 [Book] 3.8
 
-## Lecture 36 (11/16)
+## Lecture 36 (11/26)
 
 Time-dependent perturbation theory
 
@@ -365,18 +366,3 @@ Time-dependent perturbation theory
 
 Green's function formalism
 
-**Reading**: 
-
-
-## Lecture 38 (11/26)
-
-Green's function formalism
-
-**Reading**: 
-
-
-## Lecture 39 (11/28)
-
-Green's function formalism
-
-**Reading**: 
